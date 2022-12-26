@@ -1,4 +1,5 @@
 # Konichiwa People
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/762574927487303691)
 <p align="left">
 </p>
 
