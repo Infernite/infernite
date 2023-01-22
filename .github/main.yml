@@ -1,0 +1,2 @@
+- name: infer
+  uses: Platane/snk@v1.1.4
