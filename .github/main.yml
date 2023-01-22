@@ -1,2 +1,5 @@
-- name: infer
-  uses: Platane/snk@v1.1.4
+uses: Platane@latest
+id: snake-svg
+with:
+  github_user_name: Infernite
+  svg_out_path: dist/github-snake.svg
