@@ -1,6 +1,5 @@
 # Konichiwa People
 [![Discord Presence](https://lanyard.cnrad.dev/api/762574927487303691?theme=dark&bg=1e1e20&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Sleeping%20Mwahh~)](https://discord.com/users/762574927487303691)
-[![Discord Presence](https://lanyard.cnrad.dev/api/835432548079370270?theme=dark&bg=1e1e20&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Sleeping%20Mwahh~)](https://discord.com/users/835432548079370270)
 <p align="left">
 </p>
 <h3 align="left">Languages and Stuffs:</h3>
